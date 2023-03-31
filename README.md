@@ -57,6 +57,7 @@ The following animation demonstrates the application functionality (animation pr
 - UC Berkeley Extension 2023
 - [GitHub](https://docs.github.com/en)
 - [Stackoverflow](https://stackoverflow.com/)
+- [Day.js](https://day.js.org/)
 
 ## License
 
@@ -68,6 +69,7 @@ Distributed under the [MIT License](https://opensource.org/license/mit/). See [L
 
 ![license](https://img.shields.io/badge/license-MIT-yellow)
 [![Contributors](https://img.shields.io/badge/Collaborator-MAISLINN-blue)](https://github.com/Maislinn)
+[![Contributors](https://img.shields.io/badge/Collaborator-UCBERKELEY-blue)](https://extension.berkeley.edu/)
 
 
 ## Contributing
